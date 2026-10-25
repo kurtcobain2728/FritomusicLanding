@@ -53,8 +53,7 @@ export const DownloadTerminal: React.FC = () => {
 
             {/* Main APK Download Link */}
             <a
-              href="fritomusic-v1.0.apk"
-              download="fritomusic-v1.0.apk"
+              href="https://github.com/kurtcobain2728/FritoMusic/releases/latest/download/fritomusic-v1.0.apk"
               className="btn-download-hero"
               data-od-id="btn-download-apk"
             >
