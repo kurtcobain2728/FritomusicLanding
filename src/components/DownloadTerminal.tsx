@@ -53,7 +53,7 @@ export const DownloadTerminal: React.FC = () => {
 
             {/* Main APK Download Link */}
             <a
-              href="https://github.com/kurtcobain2728/FritoMusic/releases/latest/download/fritomusic-v1.0.apk"
+              href="https://github.com/kurtcobain2728/FritoMusic/releases/latest/download/FritoMusic-v1.apk"
               className="btn-download-hero"
               data-od-id="btn-download-apk"
             >
@@ -77,7 +77,7 @@ export const DownloadTerminal: React.FC = () => {
 
             {/* Specs Pills Row */}
             <div className="download-pills-row">
-              <span className="spec-pill">📦 fritomusic-v1.0.apk</span>
+              <span className="spec-pill">📦 FritoMusic-v1.apk</span>
               <span className="spec-pill">⚡ ~16.6 MB</span>
               <span className="spec-pill">🛡️ Universal ARM64-v8a / x86_64</span>
             </div>
